@@ -10,8 +10,7 @@
 
 - 🔐 **Cloud Security Engineer** 
 - ☁️ **15+ years** of progressive IT experience across cloud, security and infrastructure
-- 🏆 **13+ Industry Certifications** — AWS (6x), GCP (3x), Azure, Terraform, CLLMSP
-- 🤖 **Certified LLM Security Professional (CLLMSP)** — AI/LLM Security specialist
+- 🏆 **13+ Industry Certifications** — AWS (6x), GCP (2x), Azure (2x), Terraform, CLLMSP, CLLMSE
 - 🔄 Currently preparing for **AWS DevOps Professional** & **AWS Security Specialty**
 - 💪 Active participant in the **100 Days DevOps Challenge**
 
@@ -27,8 +26,6 @@
 ### 🔧 Infrastructure & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔐 Security Tools
 ![AWS Security Hub](https://img.shields.io/badge/Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -39,6 +36,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,6 +51,7 @@
 | Provider | Certification | Status |
 |----------|--------------|--------|
 | 🔴 Red Team Leaders | Certified LLM Security Professional (CLLMSP) | ✅ June 2026 |
+| 🔴 Red Team Leaders | Certified LLM Security Expert (CLLMSE) | ✅ July 2026 |
 | 🟠 AWS | Cloud Practitioner | ✅ Certified |
 | 🟠 AWS | AI Practitioner | ✅ Certified |
 | 🟠 AWS | Solutions Architect Associate | ✅ Certified |
