@@ -70,7 +70,7 @@
 
 ## 📫 Let's Connect
 
-💼 **LinkedIn:** [linkedin.com/in/emmanuel-mulenga](https://www.linkedin.com/in/emmanuel-mulenga)
+🌐 LinkedIn: [linkedin.com/in/emmanuel-mulenga](https://www.linkedin.com/in/emmanuel-mulenga)
 
 ---
 
