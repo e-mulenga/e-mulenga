@@ -10,7 +10,7 @@
 
 - 🔐 **Cloud Security Engineer** 
 - ☁️ **15+ years** of progressive IT experience across cloud, security and infrastructure
-- 🏆 **13+ Industry Certifications** — AWS (6x), GCP (2x), Azure (2x), Terraform, CLLMSP, CLLMSE
+- 🏆 **12+ Industry Certifications** — AWS (6x), GCP (2x), Azure (2x), Terraform, CLLMSP, CLLMSE
 - 🔄 Currently preparing for **AWS DevOps Professional** & **AWS Security Specialty**
 - 💪 Active participant in the **100 Days DevOps Challenge**
 
@@ -59,6 +59,7 @@
 | 🟠 AWS | Developer Associate | ✅ Certified |
 | 🟠 AWS | Machine Learning Associate | ✅ Certified |
 | 🟠 AWS | Security Champion Knowledge Badge | ✅ 2026 |
+| 🟠 AWS | Well-Archtected Proficient Knowledge Badge | ✅ 2026 |
 | 🔵 Google Cloud | Associate Cloud Engineer | ✅ Certified |
 | 🔵 Google Cloud | Professional Cloud Architect | ✅ Certified |
 | 🔵 Google Cloud | Cybersecurity Certificate | ✅ 2026 |
