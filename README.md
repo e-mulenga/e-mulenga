@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔐 **Cloud Security Engineer** 
+- 🔐 **Multi-Cloud Engineer** 
 - ☁️ **15+ years** of progressive IT experience across cloud, security and infrastructure
 - 🏆 **12+ Industry Certifications** — AWS (6x), GCP (2x), Azure (2x), Terraform, CLLMSP, CLLMSE
 - 🔄 Currently preparing for **AWS DevOps Professional** & **AWS Security Specialty**
@@ -71,8 +71,7 @@
 
 ## 📫 Let's Connect
 
-🌐 LinkedIn: [linkedin.com/in/emmanuel-mulenga](https://www.linkedin.com/in/emmanuel-mulenga)
-
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mulenga)
 ---
 
 *"Building secure, scalable cloud infrastructure — one Terraform module at a time."* 🚀
