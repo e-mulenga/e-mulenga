@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel Mulenga 👋
 
-## 🚀 Multi-Cloud Security Engineer | AWS | GCP | Azure | Terraform | AI Security
+## 🚀 Multi-Cloud Engineer | AWS | GCP | Azure | Terraform | AI Security
 
 > *"Security is not a product, but a process — and automation is how you scale it."*
 
