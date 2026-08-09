@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel Mulenga 👋
 
-## 🚀 Multi-Cloud Engineer | AWS | GCP | Azure | Terraform | AI Security
+## 🚀 Cloud Engineer | AWS | GCP | Azure | Terraform | AI Security | DevOps
 
 > *"Security is not a product, but a process — and automation is how you scale it."*
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔐 **Multi-Cloud Engineer** 
+- 🔐 **Cloud Engineer** 
 - ☁️ **15+ years** of progressive IT experience across cloud, security and infrastructure
 - 🏆 **12+ Industry Certifications** — AWS (6x), GCP (2x), Azure (2x), Terraform, CLLMSP, CLLMSE
 - 🔄 Currently preparing for **AWS DevOps Professional** & **AWS Security Specialty**
