@@ -4,6 +4,8 @@
 
 > *"Security is not a product, but a process — and automation is how you scale it."*
 
+> *"Security isn't a checklist you complete once - it's layered defense, where no single control is your only line of protection. If one layer fails, the next one should catch it."*
+
 ---
 
 ## 👨‍💻 About Me
