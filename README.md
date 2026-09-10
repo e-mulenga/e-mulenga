@@ -55,7 +55,7 @@ while documenting my learning journey through GitHub projects.
 ![AWS Security Hub](https://img.shields.io/badge/Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![KMS](https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-[![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -72,7 +72,7 @@ while documenting my learning journey through GitHub projects.
 ## Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6-the-badge&logogoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
