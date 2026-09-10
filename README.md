@@ -34,44 +34,45 @@ I am actively preparing for:
 while documenting my learning journey through GitHub projects.
 
 ---
+
 # Technical Skills
 
 ## Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shieldse/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/M78D4?style=for-the-badgee&logoColor=white
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
 ## Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-or-the-badge&logo=amazonaws&--
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Security
 
 ![AWS Security Hub](https://img.shields.io/badge/Security_Hub-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-badge&logo=amazonaws&logoColor=white)
-![IAM](https://imgdge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/AF9900?style=for-the-badgemazonaws&logoColor=white
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]
 
 ---
 
 ## DevOps & Containers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K26CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FFbadge&logo=githubactions&logoColor=white)
-![Python](https://img.shields76AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge5?style=for-the-badge&logo=gnubashor=white
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6-the-badge&logogoColor=white
+![Windows](https://img.shields.io/badge/Windows-0078D6-the-badge&logogoColor=white)
 
 ---
 
