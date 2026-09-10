@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Mulenga 👋
 
-## Cloud Engineer | AWS | Terraform Associate | Cloud Architect in Progress
+## Cloud Engineer | AWS Security | Terraform | Cloud Architect in Progress
 
 Designing secure, scalable, and automated cloud platforms aligned with the AWS Well-Architected Framework.
 
