@@ -16,22 +16,90 @@ I am a Cloud Engineer with 15+ years of enterprise IT experience across cloud in
 
 Most recently, I worked within the banking sector supporting cloud security, governance, compliance, incident response, and secure cloud operations within highly regulated environments.
 
-My current focus is building production-grade cloud engineering and cloud security projects that demonstrate:
+My current focus is building production-grade cloud engineering, cloud security, and cloud architecture projects that demonstrate:
 
 - AWS Architecture
 - Cloud Security
 - Infrastructure as Code (Terraform)
 - DevSecOps
 - Platform Engineering
+- Kubernetes
 - Security Operations
 - Enterprise Governance
+- AWS Well-Architected Design
 
 I am actively preparing for:
 
 - AWS Certified DevOps Engineer Professional
 - AWS Certified Security Specialty
 
-while documenting my learning journey through GitHub projects.
+while documenting my learning journey through:
+
+- Enterprise Cloud Portfolio Projects
+- Cloud Architecture Case Studies
+- 100 Days of DevOps Challenge
+- AWS, GCP, Azure, Terraform, and Kubernetes Labs
+
+---
+
+# Enterprise Cloud Portfolio
+
+This GitHub profile showcases a collection of enterprise cloud engineering, cloud security, DevSecOps, platform engineering, and cloud architecture projects designed to demonstrate real-world solutions aligned with the AWS Well-Architected Framework.
+
+---
+
+# Cloud Architecture Case Studies
+
+These repositories demonstrate how AWS services can be used to solve real-world business and technical challenges using secure, scalable, highly available, and cost-optimized architectures.
+
+---
+
+# Featured Technical Focus Areas
+
+## Cloud Architecture
+
+- AWS Well-Architected Framework
+- Enterprise Landing Zones
+- Multi-Account Strategy
+- High Availability
+- Disaster Recovery
+- Scalability
+- Cost Optimization
+
+## Cloud Security
+
+- IAM Governance
+- Security Hub
+- GuardDuty
+- CloudTrail
+- Security Operations
+- Threat Detection
+- Compliance & Governance
+- Security Automation
+
+## Infrastructure as Code
+
+- Terraform
+- CloudFormation
+- Reusable Modules
+- Environment Management
+- Infrastructure Automation
+
+## DevSecOps
+
+- GitHub Actions
+- CI/CD Pipelines
+- Security Scanning
+- Infrastructure Validation
+- Deployment Automation
+
+## Platform Engineering
+
+- Kubernetes
+- Amazon EKS
+- GitOps
+- ArgoCD
+- Monitoring & Observability
 
 ---
 
@@ -137,6 +205,42 @@ while documenting my learning journey through GitHub projects.
 🔄 AWS Certified DevOps Engineer – Professional
 
 🔄 AWS Certified Security – Specialty
+
+---
+
+# Portfolio Vision
+
+My goal is to build a comprehensive enterprise cloud portfolio demonstrating:
+
+✅ Cloud Architecture
+
+✅ Cloud Security
+
+✅ Terraform Engineering
+
+✅ DevSecOps
+
+✅ Platform Engineering
+
+✅ Kubernetes
+
+✅ Governance & Compliance
+
+✅ AWS Well-Architected Design
+
+✅ High Availability
+
+✅ Disaster Recovery
+
+✅ Cost Optimization
+
+The projects within this portfolio are designed to simulate real-world enterprise environments and showcase production-ready cloud solutions suitable for:
+
+- Cloud Architect
+- Cloud Security Architect
+- Cloud Engineer
+- Platform Engineer
+- DevSecOps Engineer
 
 ---
 
