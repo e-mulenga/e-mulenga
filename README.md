@@ -12,9 +12,9 @@ AWS • Cloud Security • Terraform • DevSecOps • Platform Engineering • 
 
 # About Me
 
-I am a Cloud Engineer with 15+ years of enterprise IT experience across cloud infrastructure, cybersecurity, IAM governance, automation, networking, systems administration, and enterprise operations.
-
-Most recently, I worked within the banking sector supporting cloud security, governance, compliance, incident response, and secure cloud operations within highly regulated environments.
+Experienced Cloud and Systems Administrator with 15+ years of enterprise IT background specializing in AWS cloud
+infrastructure, security operations, and incident response. Proven expertise in managing production environments, executing
+change management, and maintaining rigorous security standards within regulated financial sectors.
 
 My current focus is building production-grade cloud engineering, cloud security, and cloud architecture projects that demonstrate:
 
