@@ -160,6 +160,8 @@ These repositories demonstrate how AWS services can be used to solve real-world 
 
 ✅ Machine Learning Engineer Associate
 
+✅ Solutions Architect – Professional
+
 ✅ AWS Security Champion Knowledge Badge
 
 ✅ AWS Well-Architected Proficient Knowledge Badge
