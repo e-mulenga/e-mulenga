@@ -12,33 +12,22 @@ AWS • Cloud Security • Terraform • DevSecOps • Platform Engineering • 
 
 # About Me
 
-Experienced Cloud and Systems Administrator with 15+ years of enterprise IT background specializing in AWS cloud
-infrastructure, security operations, and incident response. Proven expertise in managing production environments, executing
-change management, and maintaining rigorous security standards within regulated financial sectors.
+Cloud Engineer and Cloud Security Professional with 15+ years of enterprise IT experience spanning cloud architecture, cloud security, infrastructure engineering, security operations, IAM governance, and technology transformation.
 
-My current focus is building production-grade cloud engineering, cloud security, and cloud architecture projects that demonstrate:
+Passionate about designing secure, scalable, resilient, and automated cloud platforms that enable organisations to adopt cloud technologies with confidence while maintaining strong security, compliance, and governance controls.
 
-- AWS Architecture
-- Cloud Security
-- Infrastructure as Code (Terraform)
-- DevSecOps
-- Platform Engineering
-- Kubernetes
-- Security Operations
-- Enterprise Governance
-- AWS Well-Architected Design
+My GitHub portfolio demonstrates enterprise-grade architectural patterns and real-world cloud engineering practices through projects focused on:
 
-I am actively preparing for:
+- AWS Architecture & Enterprise Landing Zones
+- Cloud Security & IAM Governance
+- Terraform & Infrastructure as Code
+- DevSecOps & Automation
+- Platform Engineering & Kubernetes
+- Security Operations & Monitoring
+- Multi-Cloud Governance
+- Resilience, Disaster Recovery & Observability
 
-- AWS Certified DevOps Engineer Professional
-- AWS Certified Security Specialty
-
-while documenting my learning journey through:
-
-- Enterprise Cloud Portfolio Projects
-- Cloud Architecture Case Studies
-- 100 Days of DevOps Challenge
-- AWS, GCP, Azure, Terraform, and Kubernetes Labs
+I believe that security, automation, and governance should be foundational components of every cloud platform, not afterthoughts. This portfolio reflects my commitment to continuous learning, practical engineering, and the pursuit of cloud architecture excellence.
 
 ---
 
