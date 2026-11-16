@@ -173,6 +173,8 @@ These repositories demonstrate how AWS services can be used to solve real-world 
 
 ✅ Security, Compliance & Identity Fundamentals (SC-900)
 
+✅ GitHub Foundations (GH-900)
+
 ---
 
 ---
