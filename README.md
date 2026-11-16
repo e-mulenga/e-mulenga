@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Mulenga 👋
 
-## Cloud Engineer | AWS | Terraform | Cloud Architect in Progress
+## Cloud Infrastructure & Security Professional | AWS, GCP, Azure Architecture | Platform Engineering
 
 Designing secure, scalable, and automated cloud platforms aligned with the AWS Well-Architected Framework.
 
@@ -31,9 +31,32 @@ I believe that security, automation, and governance should be foundational compo
 
 ---
 
-# Enterprise Cloud Portfolio
+# Enterprise Platform Strategy
 
-This GitHub profile showcases a collection of enterprise cloud engineering, cloud security, DevSecOps, platform engineering, and cloud architecture projects designed to demonstrate real-world solutions aligned with the AWS Well-Architected Framework.
+The AWS Enterprise Landing Zone is the authoritative platform repository and serves as the shared services foundation for all cloud solutions within this portfolio.
+
+Key capabilities include:
+•	Multi-Account Governance
+•	IAM & Identity Controls
+•	Cloud Security Controls
+•	Centralized Logging & Monitoring
+•	Backup & Disaster Recovery
+•	Observability
+•	Compliance & Governance
+•	Reusable Terraform Modules
+•	Shared Platform Services
+
+All repositories are being refactored to consume Landing Zone outputs rather than creating duplicate infrastructure, demonstrating enterprise platform engineering and shared services architecture.
+
+---
+
+# Enterprise Cloud Platform Ecosystem
+
+This portfolio is built around a centralized AWS Enterprise Landing Zone that serves as the foundational cloud platform for all downstream solutions.
+
+The Landing Zone provides shared governance, IAM, security controls, networking, observability, logging, monitoring, backup, and platform services that are consumed by dependent repositories using Terraform remote state and Infrastructure as Code patterns.
+
+The portfolio demonstrates enterprise architecture, platform engineering, cloud security, DevSecOps, operational resilience, governance, and AWS Well-Architected Framework principles similar to those used in large-scale production cloud environments.
 
 ---
 
@@ -201,39 +224,33 @@ These repositories demonstrate how AWS services can be used to solve real-world 
 
 ---
 
-# Portfolio Vision
+# Architecture & Platform Focus
 
-My goal is to build a comprehensive enterprise cloud portfolio demonstrating:
+The portfolio demonstrates practical implementation of:
 
 ✅ Cloud Architecture
 
-✅ Cloud Security
+✅ Platform Engineering
 
-✅ Terraform Engineering
+✅ Cloud Security Engineering
+
+✅ Terraform Automation
 
 ✅ DevSecOps
 
-✅ Platform Engineering
-
-✅ Kubernetes
-
 ✅ Governance & Compliance
-
-✅ AWS Well-Architected Design
 
 ✅ High Availability
 
+✅ Operational Resilience
+
 ✅ Disaster Recovery
+
+✅ AWS Well-Architected Design
 
 ✅ Cost Optimization
 
-The projects within this portfolio are designed to simulate real-world enterprise environments and showcase production-ready cloud solutions suitable for:
-
-- Cloud Architect
-- Cloud Security Architect
-- Cloud Engineer
-- Platform Engineer
-- DevSecOps Engineer
+The architecture follows a shared-services model, with all solutions consuming reusable Landing Zone capabilities to demonstrate enterprise-scale design, governance, and operational consistency.
 
 ---
 
@@ -249,4 +266,4 @@ Cloud Architecture • Cloud Security • AWS • Terraform • DevSecOps • Pl
 
 ---
 
-> Building secure, scalable, and automated cloud platforms — one Terraform module at a time. 🚀
+> Designing secure, scalable, and governed cloud platforms through architecture, automation, platform engineering, and Infrastructure as Code. 🚀
