@@ -190,7 +190,7 @@ These repositories demonstrate how AWS services can be used to solve real-world 
 
 ---
 
-## Microsoft
+## Microsoft & GitHub
 
 ✅ Azure Fundamentals (AZ-900)
 
